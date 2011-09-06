@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='blendtest'>
+  <inherits name='playn.PlayN'/>
+  <entry-point class='com.bigdicegames.blendtest.html.BlendTestHtml'/>
+  <source path='core'/>
+  <source path='html'/>
+  <public path="resources"/>
+</module>
